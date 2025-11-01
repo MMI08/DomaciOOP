@@ -1,1 +1,1 @@
-package domaci2;
+package doktor;
